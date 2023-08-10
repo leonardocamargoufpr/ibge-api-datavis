@@ -1,0 +1,55 @@
+15	Aglomeração Urbana
+17	Aglomerado Subnormal
+131	Amazônia Legal
+134	Amazônia Legal de Unidade da Federação
+20	Área de Divulgação da Amostra para Aglomerados Subnormais
+1105	Área de influência - PNSB
+18	Área de Ponderação
+23	Arranjo Populacional
+102	Bairro
+123	Bioma
+1	Brasil
+1100	Brasil, sem especificação de Unidade da Federação
+130	Capital/não capital de Unidade da Federação
+71	Categoria Metropolitana
+33	Concentração Urbana
+1124	Coordenação Regional da Funai
+124	Corpo d'água
+10	Distrito
+1102	Estrangeiro
+2	Grande Região
+122	Grande Região - PIMES
+1101	Ignorado
+8	Mesorregião Geográfica
+9	Microrregião Geográfica
+6	Município
+1011	Municípios Costeiros
+1013	Municípios de Faixa de Fronteira
+127	Núcleo de desertificação
+101	País do Mercosul, Bolívia e Chile
+128	Praia
+70	Recortes Metropolitanos
+25	Região Geográfica Imediata
+24	Região Geográfica Intermediária
+121	Região Hidrográfica
+14	Região Integrada de Desenvolvimento
+7	Região Metropolitana
+13	Região Metropolitana e Subdivisão
+132	Semiárido
+133	Semiárido de Unidade da Federação
+72	Subcategoria Metropolitana
+11	Subdistrito
+1125	Terra Indígena
+125	Terra Indígena por Unidade da Federação
+129	Território da Cidadania
+29	Território de Identidade
+1145	Território Quilombola
+145	Território Quilombola por Unidade da Federação
+1103	Total
+110	Total das áreas - PME
+103	Total das áreas - POF
+22	Total dos municípios das capitais
+21	Total dos municípios das capitais da Grande Região
+3	Unidade da Federação
+1104	Unidade da Federação, sem especificação de Município
+111	Unidade Federativa do Mercosul, Bolívia e Chile

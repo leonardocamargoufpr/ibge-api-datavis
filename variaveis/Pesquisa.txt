@@ -1,0 +1,67 @@
+D5	Áreas Urbanizadas
+CL	Cadastro Central de Empresas
+CA	Censo Agropecuário
+ME	Censo Comum do Mercosul, Bolívia e Chile
+CD	Censo Demográfico
+CM	Contagem da População 
+DU	Contas de ecossistemas: o uso da terra nos biomas brasileiros
+DT	Contas de Espécies Ameaçadas 
+C4	Contas Econômicas Ambientais da Água
+DR	Contas Econômicas Ambientais da Terra: Contabilidade Física
+DZ	Contas Econômicas Ambientais de Energia: produtos da biomassa
+SU	Contas Nacionais Anuais
+ST	Contas Nacionais Trimestrais
+DE	Demografia das Empresas e Estatísticas de Empreendedorismo
+XF	Estimativas de População
+FP	Fundações Privadas e Associações Sem Fins Lucrativos
+IU	Indicadores de Desenvolvimento Sustentável
+IL	Índice de Preços ao Consumidor em Real
+IR	Índice de Preços ao Produtor
+IJ	Índice de Reajuste do Salário Mínimo
+PC	Índice Nacional de Preços ao Consumidor
+IA	Índice Nacional de Preços ao Consumidor Amplo
+IQ	Índice Nacional de Preços ao Consumidor Amplo 15
+IG	Índice Nacional de Preços ao Consumidor Amplo Especial
+PG	Índice Nacional de Preços ao Consumidor Especial
+LA	Levantamento Sistemático da Produção Agrícola
+C2	Objetivos de Desenvolvimento Sustentável
+AC	Pesquisa Anual da Indústria da Construção
+PB	Pesquisa Anual de Comércio
+PY	Pesquisa Anual de Serviços
+PP	Pesquisa da Pecuária Municipal
+AM	Pesquisa de Assistência Médico-Sanitária
+ES	Pesquisa de Estoques
+PM	Pesquisa de Informações Básicas Municipais
+IT	Pesquisa de Inovação
+OF	Pesquisa de Orçamentos Familiares
+SH	Pesquisa de Serviços de Hospedagem
+SE	Pesquisa de Serviços de Publicidade e Promoção
+PT	Pesquisa de Serviços de Tecnologia da Informação
+RC	Pesquisa Estatísticas do Registro Civil
+PI	Pesquisa Industrial Anual
+PK	Pesquisa Industrial Anual - Empresa
+PJ	Pesquisa Industrial Anual - Produto
+DG	Pesquisa Industrial Mensal - Dados Gerais
+PZ	Pesquisa Industrial Mensal - Produção Física
+XY	Pesquisa Industrial Mensal de Emprego e Salário
+AB	Pesquisa Mensal de Abate de Animais
+MC	Pesquisa Mensal de Comércio
+PE	Pesquisa Mensal de Emprego
+SC	Pesquisa Mensal de Serviços
+PL	Pesquisa Mensal do Leite
+SB	Pesquisa Nacional de Saneamento Básico
+XN	Pesquisa Nacional de Saúde
+AA	Pesquisa Nacional de Saúde do Escolar
+PD	Pesquisa Nacional por Amostra de Domicílios
+B5	Pesquisa Nacional por Amostra de Domicílios Contínua anual
+BB	Pesquisa Nacional por Amostra de Domicílios Contínua mensal
+DD	Pesquisa Nacional por Amostra de Domicílios Contínua trimestral
+AX	Pesquisa Trimestral do Abate de Animais
+CQ	Pesquisa Trimestral do Couro
+LT	Pesquisa Trimestral do Leite
+PA	Produção Agrícola Municipal
+VS	Produção da Extração Vegetal e da Silvicultura
+PO	Produção de Ovos de Galinha
+IO	Produto Interno Bruto dos Municípios
+XE	Projeção da População
+SI	Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil

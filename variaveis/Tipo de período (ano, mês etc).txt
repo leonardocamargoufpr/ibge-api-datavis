@@ -1,0 +1,6 @@
+1	Ano
+5	Mês
+8	Semestre
+7	Triênio
+9	Trimestre
+13	Trimestre Móvel

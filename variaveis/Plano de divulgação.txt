@@ -1,0 +1,42 @@
+10	Amostra - Características Gerais da População
+26	Amostra - Deslocamento
+22	Amostra - Domicílios
+24	Amostra - Educação
+23	Amostra - Famílias
+12	Amostra - Famílias e Domicílios
+21	Amostra - Fecundidade
+19	Amostra - Migração
+11	Amostra - Migração e Deslocamento
+20	Amostra - Nupcialidade
+13	Amostra - Nupcialidade e Fecundidade
+9	Amostra - Primeiros Resultados
+15	Amostra - Rendimento
+16	Amostra - Resultados Gerais da Amostra
+7	Amostra - Resultados Preliminares
+33	Amostra - RGA por Áreas de Divulgação de AGSN
+8	Amostra - Tabulação Avançada
+25	Amostra - Trabalho
+14	Amostra - Trabalho e Rendimento
+27	Amostra - Trabalho Infantil
+32	Amostra - Trabalho Infantil - 2ª Publicação
+42	CA 2017 - Cor ou raça do produtor
+44	CA 2017 - Cor ou raça indígena
+43	CA 2017 - Cor ou raça preta ou parda
+41	CA 2017 - Terras Indígenas
+40	CA 2017 - Unidades de Conservação
+51	CD 2022 - Primeiros Resultados
+53	CD 2022 - Primeiros Resultados - Quilombola
+1	Geral
+36	PENSE - Amostra 9º Ano
+35	PENSE - Amostra Brasil
+29	PNAD - Corpo Básico
+38	Resultados Definitivos
+37	Séries temporais - CA
+3	Sinopse
+2	Universo
+6	Universo - Aglomerados Subnormais
+5	Universo - Características da População e dos Domicílios
+17	Universo - Características do Entorno
+34	Universo - LITpor Áreas de Divulgação de AGSN
+4	Universo - Resultados Preliminares
+18	Universo - Universo Indígena

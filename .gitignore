@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # custom
-dados_ibge/
-backend/api/models/
+# dados_ibge/
+# backend/api/models/

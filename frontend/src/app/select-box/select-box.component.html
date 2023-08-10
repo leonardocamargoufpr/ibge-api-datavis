@@ -1,0 +1,9 @@
+<h3>Selecione uma opção:</h3>
+<select [(ngModel)]="selectedOption" (change)="onSelectChange()">
+  <option *ngFor="let option of options" [value]="option">{{ option }}</option>
+</select>
+
+<div *ngIf="response">
+  <h4>Resposta do Endpoint:</h4>
+  <pre>{{ response | json }}</pre>
+</div>
